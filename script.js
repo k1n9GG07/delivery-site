@@ -119,7 +119,7 @@
         function renderClients() {
             return `
                 <div class="card">
-                    <h2>👥 Клиенты</h2>
+                    <h2> Клиенты</h2>
                     <table>
                         <thead><tr><th>ФИО</th><th>Дата рожд.</th><th>Паспорт</th><th>Логин</th><th>Ближайшие точки</th></tr></thead>
                         <tbody>
@@ -205,3 +205,4 @@
         });
 
         showTab('dashboard');
+
